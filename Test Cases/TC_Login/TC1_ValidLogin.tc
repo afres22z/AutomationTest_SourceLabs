@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_ValidLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5ee4ab3-f9cd-43a0-9a4f-52267204830f</testCaseGuid>
+</TestCaseEntity>

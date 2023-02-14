@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>amount</name>
+   <tag></tag>
+   <elementGuidId>8f1b12ca-af4c-40d3-b211-853bb3a2fac3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='summary_total_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='summary_total_label']</value>
+      <webElementGuid>1b9b0fb8-7b58-4079-9733-c3eee8096459</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
